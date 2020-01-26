@@ -1,0 +1,19 @@
+﻿Etap;Type;Origin;OLat;OLng;Dest;Dlat;DLng;Distance(km)
+1;DownHill;Nice Moyen Pays;43.7032932;7.1827774;Nice;43.7009358;7.2683912;156
+2;Hilly;Nice ;43.7009358;7.2683912;Sisteron;44.1993162;5.8925705;198
+3;One Hill;Sisteron;44.1993162;5.8925705;Orci?res-Merlette;44.6972064;6.3235516;157 
+4;Hilly;Gap ;44.5611978;6.0820018;Privas;44.7352708;4.5986733;183 
+5;Incline Hilly;Le Teil;44.5493789;4.6829629;Mont Aigoual;44.1209581;3.5815802;191 
+6;Decline Hilly;Millau ;44.1006693;3.0777594;Lavaur;44.6129697;1.0230515;168 
+7;Mountains;Cazres-sur-Garonne;43.2129897;1.0830602;Loudenvielle;42.7507566;0.4327564;140
+8;Mountain;Pau ;43.2957547;-0.3685668;Laruns;42.9882368;-0.4266324;154
+9;Hilly;Châtelaillon-Plage;46.0738633;-1.0903991;Poitiers;46.5802596;0.340196;167
+10;Hilly;Chauvigny ;46.5695048;0.6439464;Sarran Corrèze;45.4097306;1.9382743;218
+11;Mountain;Châtel-Guyon;45.9205;3.06111;Puy Mary Cantal;45.1093058;2.6762524;191 
+12;Mountain;Clermont-Ferrand;45.7774551;3.0819427;Lyon;45.7578137;4.8320114;197 
+13;Mountain;Lyon;45.7578137;4.8320114;Grand Colombier;45.9012319;5.7609029;175 
+14;Mountains;La Tour-du-Pin;45.5666202;5.4424054;Villard-de-Lans;45.0705366;5.551536;164 
+15;Mountains;Grenoble;45.1875602;5.7357819;Méribel Col de la Loze;44.28607;1.79357;168 
+16;Mountain;Méribel;46.3337135;6.0486116;La Roche-sur-Foron;46.0672347;6.3125923;168 
+17;Hills;Bourg-en-Bresse;46.2051192;5.2250324;Champagnole;46.7456049;5.9083581;160
+18;Hills;Mantes-la-Jolie;48.9891971;1.7140683;Paris Champs-Élysées;48.8707573;2.3053312;122 
